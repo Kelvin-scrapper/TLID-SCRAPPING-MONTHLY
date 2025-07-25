@@ -1,0 +1,18 @@
+# Enhanced TLID Scraper Requirements
+# ===================================
+
+# Core data processing
+pandas>=2.0.0
+openpyxl>=3.1.0
+xlrd>=2.0.1
+xlsxwriter>=3.0.0
+
+# Web scraping and automation
+selenium>=4.15.0
+webdriver-manager>=4.0.0
+
+# Standard libraries (usually included with Python)
+# json - built-in
+# datetime - built-in
+# os - built-in
+# time - built-in

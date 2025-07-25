@@ -1,0 +1,316 @@
+{
+  "metadata": {
+    "file_processed": "17-1_202504.xls",
+    "processing_date": "2025-07-25T10:49:46.133345",
+    "total_tlid_codes": 19,
+    "successfully_mapped": 19,
+    "mapping_details": {
+      "TLID.BANKDEP.M": {
+        "status": "success",
+        "excel_row": 5,
+        "data_points": 1
+      },
+      "TLID.SECUR.M": {
+        "status": "success",
+        "excel_row": 6,
+        "data_points": 1
+      },
+      "TLID.GOVTREASBONDS.M": {
+        "status": "success",
+        "excel_row": 7,
+        "data_points": 1
+      },
+      "TLID.FINBONDS.M": {
+        "status": "success",
+        "excel_row": 8,
+        "data_points": 1
+      },
+      "TLID.STOCKS.M": {
+        "status": "success",
+        "excel_row": 9,
+        "data_points": 1
+      },
+      "TLID.CORPBONDS.M": {
+        "status": "success",
+        "excel_row": 10,
+        "data_points": 1
+      },
+      "TLID.FUNDBENCERT.M": {
+        "status": "success",
+        "excel_row": 11,
+        "data_points": 1
+      },
+      "TLID.SECPROD.M": {
+        "status": "success",
+        "excel_row": 12,
+        "data_points": 1
+      },
+      "TLID.REALEST.M": {
+        "status": "success",
+        "excel_row": 13,
+        "data_points": 1
+      },
+      "TLID.INVEST.M": {
+        "status": "success",
+        "excel_row": 14,
+        "data_points": 1
+      },
+      "TLID.PRIVUSE.M": {
+        "status": "success",
+        "excel_row": 15,
+        "data_points": 1
+      },
+      "TLID.LOANPOL.M": {
+        "status": "success",
+        "excel_row": 16,
+        "data_points": 1
+      },
+      "TLID.LOANS.M": {
+        "status": "success",
+        "excel_row": 17,
+        "data_points": 1
+      },
+      "TLID.FORINEST.M": {
+        "status": "success",
+        "excel_row": 18,
+        "data_points": 1
+      },
+      "TLID.AUTPROJ.M": {
+        "status": "success",
+        "excel_row": 19,
+        "data_points": 1
+      },
+      "TLID.INVINSENT.M": {
+        "status": "success",
+        "excel_row": 20,
+        "data_points": 1
+      },
+      "TLID.DERIV.M": {
+        "status": "success",
+        "excel_row": 21,
+        "data_points": 1
+      },
+      "TLID.OTHERUTILCAP.M": {
+        "status": "success",
+        "excel_row": 22,
+        "data_points": 1
+      },
+      "TLID.TOTALAMCAPINV.M": {
+        "status": "success",
+        "excel_row": 23,
+        "data_points": 1
+      }
+    }
+  },
+  "mapped_data": {
+    "TLID.BANKDEP.M": {
+      "mapping_info": {
+        "english": "Bank Deposits",
+        "chinese": "銀行存款",
+        "excel_pattern": "Bank Deposits"
+      },
+      "data": {
+        "2025-04_amount": 516811.267928
+      },
+      "excel_row": 5
+    },
+    "TLID.SECUR.M": {
+      "mapping_info": {
+        "english": "Securities",
+        "chinese": "有價證券",
+        "excel_pattern": "Securities"
+      },
+      "data": {
+        "2025-04_amount": 6179511.189304
+      },
+      "excel_row": 6
+    },
+    "TLID.GOVTREASBONDS.M": {
+      "mapping_info": {
+        "english": "Government & Treasury Bonds",
+        "chinese": "公債及國庫券",
+        "excel_pattern": "Government & Treasury Bonds"
+      },
+      "data": {
+        "2025-04_amount": 1019049.972259
+      },
+      "excel_row": 7
+    },
+    "TLID.FINBONDS.M": {
+      "mapping_info": {
+        "english": "Financial bond, deposit receipt, bank draft and promissory note",
+        "chinese": "金融債券、存單、匯票與本票",
+        "excel_pattern": "Financial bond, deposit receipt, bank draft"
+      },
+      "data": {
+        "2025-04_amount": 517304.757522
+      },
+      "excel_row": 8
+    },
+    "TLID.STOCKS.M": {
+      "mapping_info": {
+        "english": "Stocks",
+        "chinese": "股票",
+        "excel_pattern": "Stocks"
+      },
+      "data": {
+        "2025-04_amount": 1768106.931854
+      },
+      "excel_row": 9
+    },
+    "TLID.CORPBONDS.M": {
+      "mapping_info": {
+        "english": "Corporation Bonds",
+        "chinese": "公司債",
+        "excel_pattern": "Corporation Bonds"
+      },
+      "data": {
+        "2025-04_amount": 620170.081626
+      },
+      "excel_row": 10
+    },
+    "TLID.FUNDBENCERT.M": {
+      "mapping_info": {
+        "english": "Funds & Benefit Certificates",
+        "chinese": "基金及受益憑證",
+        "excel_pattern": "Funds & Benefit Certificates"
+      },
+      "data": {
+        "2025-04_amount": 197469.449068
+      },
+      "excel_row": 11
+    },
+    "TLID.SECPROD.M": {
+      "mapping_info": {
+        "english": "Securitized products and other",
+        "chinese": "證劵化商品及其他",
+        "excel_pattern": "Securitized products and other"
+      },
+      "data": {
+        "2025-04_amount": 2057409.9969749998
+      },
+      "excel_row": 12
+    },
+    "TLID.REALEST.M": {
+      "mapping_info": {
+        "english": "Real Estates",
+        "chinese": "不動產",
+        "excel_pattern": "Real Estates"
+      },
+      "data": {
+        "2025-04_amount": 1658910.5797439998
+      },
+      "excel_row": 13
+    },
+    "TLID.INVEST.M": {
+      "mapping_info": {
+        "english": "Investment",
+        "chinese": "投資用",
+        "excel_pattern": "Investment"
+      },
+      "data": {
+        "2025-04_amount": 1506628.2249659998
+      },
+      "excel_row": 14
+    },
+    "TLID.PRIVUSE.M": {
+      "mapping_info": {
+        "english": "Private Use",
+        "chinese": "自用",
+        "excel_pattern": "Private Use"
+      },
+      "data": {
+        "2025-04_amount": 152282.354778
+      },
+      "excel_row": 15
+    },
+    "TLID.LOANPOL.M": {
+      "mapping_info": {
+        "english": "Loan to Policy-holders",
+        "chinese": "壽險貸款",
+        "excel_pattern": "Loan to Policy-holders"
+      },
+      "data": {
+        "2025-04_amount": 659243.913658
+      },
+      "excel_row": 16
+    },
+    "TLID.LOANS.M": {
+      "mapping_info": {
+        "english": "Loans",
+        "chinese": "放款",
+        "excel_pattern": "Loans"
+      },
+      "data": {
+        "2025-04_amount": 467113.2422010001
+      },
+      "excel_row": 17
+    },
+    "TLID.FORINEST.M": {
+      "mapping_info": {
+        "english": "Foreign Investments",
+        "chinese": "國外投資",
+        "excel_pattern": "Foreign Investments"
+      },
+      "data": {
+        "2025-04_amount": 22656991.771163
+      },
+      "excel_row": 18
+    },
+    "TLID.AUTPROJ.M": {
+      "mapping_info": {
+        "english": "Authorized Projects or Public Investment",
+        "chinese": "專案運用及公共投資",
+        "excel_pattern": "Authorized Projects or Public Investment"
+      },
+      "data": {
+        "2025-04_amount": 147204.721674
+      },
+      "excel_row": 19
+    },
+    "TLID.INVINSENT.M": {
+      "mapping_info": {
+        "english": "Investment on Insurance Enterprise",
+        "chinese": "投資保險相關事業",
+        "excel_pattern": "Investment on Insurance Enterprise"
+      },
+      "data": {
+        "2025-04_amount": 15579.354257
+      },
+      "excel_row": 20
+    },
+    "TLID.DERIV.M": {
+      "mapping_info": {
+        "english": "Derivatives",
+        "chinese": "從事衍生性商品交易",
+        "excel_pattern": "Derivatives"
+      },
+      "data": {
+        "2025-04_amount": 13536.496981
+      },
+      "excel_row": 21
+    },
+    "TLID.OTHERUTILCAP.M": {
+      "mapping_info": {
+        "english": "Other utilizations of capital (Approved)",
+        "chinese": "其他經核准之資金運用",
+        "excel_pattern": "Other utilizations of capital"
+      },
+      "data": {
+        "2025-04_amount": 128350.238157
+      },
+      "excel_row": 22
+    },
+    "TLID.TOTALAMCAPINV.M": {
+      "mapping_info": {
+        "english": "Total Amount of Capital Invested",
+        "chinese": "資金運用總額",
+        "excel_pattern": "Total Amount of Capital Invested"
+      },
+      "data": {
+        "2025-04_amount": 32443252.775068
+      },
+      "excel_row": 23
+    }
+  }
+}
